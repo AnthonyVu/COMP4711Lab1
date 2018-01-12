@@ -1,2 +1,2 @@
-# COMP4711Lab1
-COMP4711 lab 1
+# Lab 1
+project name: COMP4711Lab1
